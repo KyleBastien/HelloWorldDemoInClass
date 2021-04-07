@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldDemoInClass</string>
+    <string name="my_name">Kyle Bastien 4/6/2021</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
